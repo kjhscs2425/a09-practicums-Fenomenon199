@@ -14,7 +14,8 @@ You will write two functions:
 1. The `choose_practicum` function.
    * Ask the user to sign up for a practicum
    * If they choose a valid practicum, return their choice
-   * Otherwise, call the function `choose_practicum` again (recursive call) and return the result of that.
+   * Otherwise, call the function `choose_practicum` again (recursive call) and return the result of that. 
+   
 2. The main function for the signup process. This will:
   * Ask for the user's name and save it to a variable
   * Call the `choose_practicum` function and save the result to a variable.
